@@ -1,0 +1,10 @@
+.Heading h2 {
+    color: #4D4D4D;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.Heading hr {
+    border-bottom: 3px solid #4D4D4D;
+    width: 35px;
+    margin-bottom: 20px;
+}

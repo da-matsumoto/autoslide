@@ -1,0 +1,32 @@
+.SlideTitle{
+    border: 2px solid #4D4D4D;
+    width: 600px;
+    height: 340px;
+    margin-bottom: 30px;
+}
+.SlideTitle h1{
+    text-align: center;
+    margin-top: 140px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.PageText{
+    border: 2px solid #4D4D4D;
+    width: 600px;
+    height: 340px;
+    margin-bottom: 30px;
+}
+.PageText h2{
+    border-bottom: 2px solid #4D4D4D;
+    font-size: 20px;
+    padding: 10px 10px 10px;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+.PageText p{
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 1px;
+    margin-left: 10px;
+}
